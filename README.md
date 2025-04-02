@@ -11,7 +11,6 @@ python3 main.py
 
 # App Project
 
-
 ```sh
 git clone
 cd app
