@@ -8,6 +8,7 @@ cd game
 python3 main.py
 ```
 
+
 # App Project
 
 ```sh
